@@ -60,7 +60,7 @@ h3 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    width: 250px;
+    width: 200px;
 }
 
 table {
@@ -77,4 +77,27 @@ tr:nth-child(even){background-color: #f2f2f2}
 th {
     background-color: #4682B4;
     color: white;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+div.clear {
+    clear:both;
 }
