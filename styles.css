@@ -11,6 +11,12 @@ h2 {
   padding: 2%;
 }
 
+.newspaper {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
+
 .button {
     background-color: #4682B4;
     border: none;
