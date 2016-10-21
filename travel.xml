@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Germany [
+<!ELEMENT city (date, itinerary)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT itinerary (#PCDATA)>
+]>

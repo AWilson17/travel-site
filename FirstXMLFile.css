@@ -1,0 +1,53 @@
+Germany
+{
+  display : block;
+  font-family : Helvetica;
+  color : #7A0019;
+  background-color : #FDF5E6;
+  }﻿
+  
+Poland
+{
+  display : block;
+  font-family : Helvetica;
+  color : #7A0019;
+  background-color : #FDF5E6;
+  }﻿
+  
+France
+{
+  display : block;
+  font-family : Helvetica;
+  color : #7A0019;
+  background-color : #FDF5E6;
+  }﻿
+  
+city
+{
+  display : block;
+  color : #7A0019;
+  font-family : Helvetica;
+  font-size : x-large;
+  width : 300px;
+  padding : 10pt;
+  border : 1px solid #7A0019;
+  border-radius: 25px;
+  margin : 5px;
+}
+
+date
+  {
+    color : #7A0019;
+    font-family : Helvetica;
+    font-size : large;
+    display : block;
+    }
+
+itinerary
+{
+  color : black;
+  font-family : Helvetica;
+  font-size : medium;
+  display : block;
+  margin-bottom : 2%;
+}
