@@ -1,29 +1,24 @@
-country-name
-{
-  display : block;
-  font-family : "Helvetica", sans-serif;
-  color : #800080;
-  font-size : 24px;
-  }﻿
-  
-name
-{
-  display : block;
-  font-family : "Helvetica", sans-serif;  
-  color : #808080;
-  font-size : 18px;
-  }
-
-date
-  {
-    display : block; 
-    color : #000000;
-    font-family : "Helvetica", sans-serif;
-    font-size : 14px;
-    }
-
-itinerary
-{
-  color : black;
-  font-family : "Helvetica", sans-serif;
+country-name {
+  display: block;
+  font-family: "Helvetica", sans-serif;
+  color: #800080;
+  font-size: 24px;
+}﻿
+name {
+    display: block;
+    font-family: "Helvetica", sans-serif;
+    color: #808080;
+    font-size: 18px; 
 }
+date {
+    display: block; 
+    color: #000000;
+    font-family: "Helvetica", sans-serif;
+    font-size: 14px;
+}
+
+itinerary {
+  color: black;
+  font-family: "Helvetica", sans-serif;
+}
+
