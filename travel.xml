@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Germany [
-<!ELEMENT city (date, itinerary)>
+<?xml-stylesheet type="text/css" href="FirstXMLFile.css"?>
+<!DOCTYPE country [
+<!ELEMENT country (city, date, itinerary)>
+<!ATTLIST country type (poland, germany, france)>
+<!ELEMENT city (#PCDATA)>
 <!ELEMENT date (#PCDATA)>
 <!ELEMENT itinerary (#PCDATA)>
 ]>
+
+
+<country id="poland">
+    <city></city>
+        <date></date>
+            <itinerary>
+                
+            </itinerary>
+</country>
+
+<country id="germany">
+    <city></city>
+    <date></date>
+    <itinerary>
+        
+    </itinerary>
+</country>
+
+<country id="france">
+    <city></city>
+    <date></date>
+    <itinerary>
+        
+    </itinerary>
+</country>
