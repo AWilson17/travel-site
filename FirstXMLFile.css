@@ -24,30 +24,19 @@ France
   
 city
 {
-  display : block;
-  color : #7A0019;
-  font-family : Helvetica;
-  font-size : x-large;
-  width : 300px;
-  padding : 10pt;
-  border : 1px solid #7A0019;
-  border-radius: 25px;
-  margin : 5px;
+  color : #808080;
+  font-family : "Helvetica", sans-serif;
 }
 
 date
   {
-    color : #7A0019;
-    font-family : Helvetica;
-    font-size : large;
-    display : block;
+    color : #000000;
+    font-family : "Helvetica", sans-serif;
+    font-size : 14px;
     }
 
 itinerary
 {
   color : black;
-  font-family : Helvetica;
-  font-size : medium;
-  display : block;
-  margin-bottom : 2%;
+  font-family : "Helvetica", sans-serif;
 }

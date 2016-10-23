@@ -32,19 +32,6 @@ li a.active {
     background-color: #4682B4;
 }
 
-city
-{
-
-}
-
-date
-{
-
-}
-
-itinerary
-{
-  
 }
 h2 {
   color: #800080;
@@ -121,4 +108,47 @@ div.clear {
 }
 a {
     color: black;
+}
+
+Germany
+{
+  display : block;
+  font-family : Helvetica;
+  color : #7A0019;
+  background-color : #FDF5E6;
+  }﻿
+  
+Poland
+{
+  display : block;
+  font-family : Helvetica;
+  color : #7A0019;
+  background-color : #FDF5E6;
+  }﻿
+  
+France
+{
+  display : block;
+  font-family : Helvetica;
+  color : #7A0019;
+  background-color : #FDF5E6;
+  }﻿
+  
+city
+{
+  color : #808080;
+  font-family : "Helvetica", sans-serif;
+}
+
+date
+  {
+    color : #000000;
+    font-family : "Helvetica", sans-serif;
+    font-size : 14px;
+    }
+
+itinerary
+{
+  color : black;
+  font-family : "Helvetica", sans-serif;
 }
