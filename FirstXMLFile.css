@@ -1,9 +1,9 @@
-country
+country-name
 {
   display : block;
-  font-family : Helvetica;
-  color : #7A0019;
-  background-color : #FDF5E6;
+  font-family : "Helvetica", sans-serif;
+  color : #800080;
+  font-size : 24px;
   }﻿
   
 city
