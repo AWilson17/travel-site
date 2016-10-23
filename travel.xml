@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="FirstXMLFile.css"?>
 <!DOCTYPE travel [
 <!ELEMENT travel (country)>
-<!ELEMENT country (city)>
+<!ELEMENT country (country-name, city)>
 <!ELEMENT country-name (#PCDATA)>
 <!ELEMENT city (name, date, itinerary)>
 <!ELEMENT name (#PCDATA)>
