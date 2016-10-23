@@ -6,14 +6,17 @@ country-name
   font-size : 24px;
   }﻿
   
-city
+name
 {
+  display : block;
+  font-family : "Helvetica", sans-serif;  
   color : #808080;
-  font-family : "Helvetica", sans-serif;
-}
+  font-size : 18px;
+  }
 
 date
   {
+    display : block; 
     color : #000000;
     font-family : "Helvetica", sans-serif;
     font-size : 14px;
