@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="france_background">
+  <title>France background information</title>
+  <shortdesc>Some important information about France, including the time difference, weather, map, and currency information.</shortdesc>
+  <body>
+    <p>Time: France is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in Minnesota, it will be 8:00 p.m. in France.</p>
+    <p>Weather: France's weather greatly depends on where you are in France. Since Ann and Don will be in Paris, the climate there is variable. There's a chance of downpour in the spring or a thunderstorm in the summer. In the spring and fall, Paris is mild and relatively dry. July and August are the warmest months. The wettest month is usually October.</p>
+    <p>Map: [add image]</p>
+    <p>Currency: France's currency is the Euro. Currently, 1 U.S. dollar equals 0.94 Euro. </p>
+  </body>
+  
+  <related-links>
+    <link format="html" href="http://www.weatheronline.co.uk/reports/climate/France.htm" scope="external"></link>
+  </related-links>
+</topic>
