@@ -4,6 +4,13 @@
   <title>Germany background information</title>
   <shortdesc>Some important information about Germany, including the time difference, weather, map, and currency information.</shortdesc>
   <body>
-    <p></p>
+    <p>Time: Germany is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in Minnesota, it will be 8:00 p.m. in Germany.</p>
+    <p>Weather: Germany's weather is moderte and has generally no longer periods of cold or hot weather. Northwestern and coastal Germany has warm summers and mild cloudy winters. Farther inland, the climate has greater seasonal variations with warm summers and cold winters.</p>
+    <p>Map: [add image]</p>
+    <p>Currency: Germany's currency is the Euro. Currently, 1 U.S. dollar equals 0.94 Euro. </p>
   </body>
+  
+  <related-links>
+    <link format="html" href="http://www.weatheronline.co.uk/reports/climate/Germany.htm" scope="external"></link>
+  </related-links>
 </topic>
