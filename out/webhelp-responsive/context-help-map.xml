@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="site_organization" path="site-organization.html"/>
+   <appContext helpID="poland_background" path="poland-background.html"/>
+   <appContext helpID="germany_background" path="germany-background.html"/>
+   <appContext helpID="france_background" path="france-background.html"/>
+</map>
