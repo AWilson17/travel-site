@@ -1,0 +1,1 @@
+var helpContexts = [{"appname":"", "appid":"site_organization", "path":"site-organization.html"},{"appname":"", "appid":"poland_background", "path":"poland-background.html"},{"appname":"", "appid":"germany_background", "path":"germany-background.html"},{"appname":"", "appid":"france_background", "path":"france-background.html"}]
