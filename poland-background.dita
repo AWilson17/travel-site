@@ -4,11 +4,16 @@
   <title>Poland background information</title>
   <shortdesc>Some important information about Poland that could impact travel arrangements.</shortdesc>
   <body>
+    <p>
+      <fig id="fig_cry_tvj_1y">
+        <title>Map of Poland</title>
+        <image href="../Poland_map.jpg" id="image_dry_tvj_1y"/>
+      </fig>
+    </p>  
     <p>Capital: Warsaw</p>
     <p>Languages: Polish is the main language with English being the most common sencond langauge studied and spoken.</p>
     <p>Time: Poland is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in Minnesota, it will be 8:00 p.m. in Poland.</p>
     <p>Weather: Poland climate is typically cold during the winter and warm during the summer, and greatly influenced by oceanic air currents from the west, cold polar air from Scandinavia and Russia, as well as warmer, sub-tropical air from the south.</p>
-    <p>Map: [add image]</p>  
     <p>Currency: Poland's currency is the Polish Zloty (PLN). Currently, the conversion rate is 1 U.S. dollar to 4.178 PLN.  </p>
     <p>Transportation information: Travel by means of rail, road, marine shipping, and air travel. Since 2004, Poland has invested a lot in modernizing their transportation networks.</p>
     <p>Population: Rougly 38,544,513 inhabitants, which is the 8th largest population in Europe. There's roughly 328 people per square mile.</p>
