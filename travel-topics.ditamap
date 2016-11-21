@@ -3,7 +3,9 @@
 <map>
  <title>Wilson adventure's topic map</title>
  <topicref href="site-organization.dita"/>
- <topicref href="poland-background.dita"/>
- <topicref href="germany-background.dita"/>
- <topicref href="france-background.dita"/>
+ <topichead navtitle="Country background information">
+     <topicref href="poland-background.dita"/>
+     <topicref href="germany-background.dita"/>
+     <topicref href="france-background.dita"/>
+ </topichead>
 </map>
