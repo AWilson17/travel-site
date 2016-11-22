@@ -2,12 +2,27 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="germany_background">
   <title>Germany background information</title>
-  <shortdesc>Some important information about Germany, including the time difference, weather, map, and currency information.</shortdesc>
+  <shortdesc>Some important information about Germany that could impact travel
+    arrangements.</shortdesc>
   <body>
-    <p>Time: Germany is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in Minnesota, it will be 8:00 p.m. in Germany.</p>
-    <p>Weather: Germany's weather is moderate and has generally no longer periods of cold or hot weather. Northwestern and coastal Germany has warm summers and mild cloudy winters. Farther inland, the climate has greater seasonal variations with warm summers and cold winters.</p>
-    <p>Map: [add image]</p>
-    <p>Currency: Germany's currency is the Euro. Currently, 1 U.S. dollar equals 0.94 Euro. </p>
+    <p><image href="../Germany_map.jpg" scale="75" id="image_umx_bck_1y"/></p>
+    <p><b>Capital</b>: Berlin</p>
+    <p><b>Time</b>: Germany is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in
+      Minnesota, it will be 8:00 p.m. in Germany.</p>
+    <p><b>Weather</b>: Germany's weather is moderate and has generally no longer periods of cold or
+      hot weather. Northwestern and coastal Germany has warm summers and mild cloudy winters.
+      Farther inland, the climate has greater seasonal variations with warm summers and cold
+      winters.</p>
+    <p><b>Language</b>: German is the primary language spoken, but Low German, Dutch, Frisian, and English are also commonly spoken.</p>
+    <p><b>Currency</b>: Germany's currency is the Euro. Currently, 1 U.S. dollar equals 0.94 Euro. </p>
+    <p><b>Transportation</b>: Germany is a transportation hub for Europe due to its central position. Germany's road network is among the densest in the world. The Autobahn is known for its lack of a speed limit and is a tourist experience. Germany also has a network of high-speed trains and has two large airports in Frankfurt and Munich.</p>
+    <p><b>Traditional foods</b>: German cuisine varies from region to region and international variets are also widely popular and available. Bread is a significant part of the German diet and German cheese account for a third of the cheese produced in Europe. Most meals contain pork, beef, or chicken. Bratwursts, Weisswursts, and Currywursts are largely popular.</p>
+    <p><b>Traditional drinks</b>: The national alcoholic drink is beer. German's consume the most beer in the world. Wine is gaining popularity in many parts of Germany.</p>
+    <p><b>Population</b>: Germany has a population of roughly 81.5 million with 588 people per square mile.</p>
+    <p><b>Political leader(s)</b>: Germany is a federal, parliamentary, representative democractic republic. Joachim Gauck is the President and Angela Merkel is the Chancellor.</p>
+    <p><b>Religions</b>: Germany is two-third Christian and one-third Protestant.</p>
+    <p><b>Healthcare system</b>: Germany has the world's oldest universal healthcare system and currently the population is covered by a health insurance plan provided by statute with criteria allowing some groups to opt for a private health insurance contract.</p>
+    <p><b>Major industries and imports/exports</b>: Germany's main insdustries include iron and steele, coal, cement, mineral fuels, chemicals, plastics, production machinery, vehicles, trains, shipbuilding, space and aircraft, machine tools, electronics, information techology, optical and medical apparatus, pharmaceuticals, food and beverages, and textiles. Germany is a top location for trade fairs with around two-thirds of the world's leaning trade fairs taking place in Germany. </p>
   </body>
   
   <related-links>
