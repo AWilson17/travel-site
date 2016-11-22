@@ -2,12 +2,32 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="france_background">
   <title>France background information</title>
-  <shortdesc>Some important information about France, including the time difference, weather, map, and currency information.</shortdesc>
+  <shortdesc>Some important information about France that could impact travel
+    arrangements.</shortdesc>
   <body>
-    <p>Time: France is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in Minnesota, it will be 8:00 p.m. in France.</p>
-    <p>Weather: France's weather greatly depends on where you are in France. Since Ann and Don will be in Paris, the climate there is variable. There's a chance of downpour in the spring or a thunderstorm in the summer. In the spring and fall, Paris is mild and relatively dry. July and August are the warmest months. The wettest month is usually October.</p>
-    <p>Map: [add image]</p>
-    <p>Currency: France's currency is the Euro. Currently, 1 U.S. dollar equals 0.94 Euro. </p>
+    <p>
+      <fig id="fig_ll3_ndk_1y">
+        <title>Map of France</title>
+        <image href="../France_map.jpg" scale="75" id="image_ml3_ndk_1y"/>
+      </fig>
+    </p>
+    <p><b>Capital</b>: Paris</p>
+    <p><b>Time</b>: France is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in
+      Minnesota, it will be 8:00 p.m. in France.</p>
+    <p><b>Weather</b>: France's weather greatly depends on where you are in France. Since Ann and
+      Don will be in Paris, the climate there is variable. There's a chance of downpour in the
+      spring or a thunderstorm in the summer. In the spring and fall, Paris is mild and relatively
+      dry. July and August are the warmest months. The wettest month is usually October.</p>
+    <p><b>Languages</b>: French is the official language and many are taught English as a second language.</p>
+    <p><b>Currency</b>: France's currency is the Euro. Currently, 1 U.S. dollar equals 0.94 Euro. </p>
+    <p><b>Transportation</b>: The railway network of France is the second most extensive in Western Europe (after Germany). It has high-speed trains including the Thalys, the Eurostar, and TGV. The Eurostar connects the United Kingdom through the Channel Tunnel. France has the most extensive roadway on the continent and the roads and highways connect virtually all parts of the country.</p>
+    <p><b>Traditional foods</b>: French cuisine is renowned for being one of the finest in the world. Traditional recipes are different based on region and each region has iconic traditional specialties. France is known for their cheeses, such as Camembert, Roquefort, and Brie. A meal consists of three courses: hors d'oeuvre or entree, plat principal (main course), fromage (cheese course) and/or dessert. Macarons are a common dessert.</p>
+    <p><b>Traditional drinks</b>: Wine is the drink of choice in France, but beer is also highly produced.</p>
+    <p><b>Population</b>: There are roughly 66.6 million people in France and 64.5 million of them are located in metropolitan France. France has a fairly high rate of natural population growth.</p>
+    <p><b>Political leader(s)</b>: France is a unitary semi-presidential republic with strong democratic traditions. Francois Hollande is the President.</p>
+    <p><b>Religions</b>: France is a secular country and the freedom of religion is a constitutional right. Catholicism is the predominant religion in France and most of the religious buildings are Roman Catholic.</p>
+    <p><b>Healthcare system</b>: The French healthcare system is one of universal healthcare largely financed by government national health insurance. France's healthcare system was ranked first worldwide by the World Health Organization. Care is generally free for people affected by chronic diseases.</p>
+    <p><b>Major industries and imports/exports</b>: Major industries in France include automobile manufacturing, aircraft production, chemicals, electronics, machinery manufacturing, metallurgy, and tourism. France's main exports include valuable commodities such as steel, machinery, pharmaceutical products, consumer products, petroleum, chemicals, iron, and transportation equipment. France's imports include crude oil, chemicals, aircraft, machinery, plastics, and vehicles.</p>
   </body>
   
   <related-links>
