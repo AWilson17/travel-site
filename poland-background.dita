@@ -3,26 +3,48 @@
 <topic id="poland_background">
   <title>Poland background information</title>
   <shortdesc>Some important information about Poland that could impact travel arrangements.</shortdesc>
-  <body>
-    <p>
-      <fig id="fig_cry_tvj_1y">
+  <body>  
+    <p><fig id="fig_olr_jxj_1y">
         <title>Map of Poland</title>
-        <image href="../Poland_map.jpg" id="image_dry_tvj_1y"/>
+        <image href="../Poland_map.jpg" scale="75" id="image_plr_jxj_1y"/>
       </fig>
     </p>  
-    <p>Capital: Warsaw</p>
-    <p>Languages: Polish is the main language with English being the most common sencond langauge studied and spoken.</p>
-    <p>Time: Poland is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in Minnesota, it will be 8:00 p.m. in Poland.</p>
-    <p>Weather: Poland climate is typically cold during the winter and warm during the summer, and greatly influenced by oceanic air currents from the west, cold polar air from Scandinavia and Russia, as well as warmer, sub-tropical air from the south.</p>
-    <p>Currency: Poland's currency is the Polish Zloty (PLN). Currently, the conversion rate is 1 U.S. dollar to 4.178 PLN.  </p>
-    <p>Transportation information: Travel by means of rail, road, marine shipping, and air travel. Since 2004, Poland has invested a lot in modernizing their transportation networks.</p>
-    <p>Population: Rougly 38,544,513 inhabitants, which is the 8th largest population in Europe. There's roughly 328 people per square mile.</p>
-    <p>Political leader(s): Poland is a representative democracy and Andrzej Duda is the President and Beata Szydlo is the Prime Minister.</p>
-    <p>Religions: There was a large Jewish population prior to World War II; however, now the overwhelming majority of people are Roman Catholic. Freedom of religion is guaranteed.</p>
-    <p>Healthcare system: Based on an all-inclusive insurance system. All medical service providers and hospitals are subordinate to the Polish Ministry of Health. The Hospitals are organized according to the regional administrative structure, so most towns have their own hospital. Most hospitals are modern and have been recently updated.</p>
-    <p>Major industries and imports/exports: Poland's industrail base suffered greatly because of World War II. Today, their main concentrations are on fertilizers, petrochemicals, machine tools, electrical machinery, electronics, car manufacturing, and shipbuilding. Their main imports are capital goods needed for industrial retooling and for manufacturing inputs. The most successful exports are furniture, foods, motor boats, light planes, hardwood products, casual clothing, shoes, and cosmetics.</p>
-    <p>Traditional foods: Polish cuisine shares similarities with Germany and Austria especially, but also Jewish, Belarusian, Ukrainian, Russian, French and Italian culinary traditions. It's rich in meat (pork, chicken, and beef) and winter vegetables (cabbage), and spices. The Polish national dishes are bigos, pierogi, kielbasa, kotlet schabowy, breaded cultlet, sour cucumber soup, and tripe soup among others. </p>
-    <p>Traditional drinks: Traditional alcohol beverages include honey mead, beer, wine, and vodka. Popular non-alcoholic drinks include tea, juices, soft drinks, buttermilk, soured milk, and kefir.</p> 
+    <p><b>Capital</b>: Warsaw</p>
+    <p><b>Time</b>: Poland is seven hours ahead of Minnesota. For example, if it's 1:00 p.m. in
+      Minnesota, it will be 8:00 p.m. in Poland.</p>
+    <p><b>Weather</b>: Poland climate is typically cold during the winter and warm during the
+      summer, and greatly influenced by oceanic air currents from the west, cold polar air from
+      Scandinavia and Russia, as well as warmer, sub-tropical air from the south.</p>
+    <p><b>Languages</b>: Polish is the main language with English being the most common sencond
+      langauge studied and spoken.</p>
+    <p><b>Currency</b>: Poland's currency is the Polish Zloty (PLN). Currently, the conversion rate
+      is 1 U.S. dollar to 4.178 PLN. </p>
+    <p><b>Transportation</b>: Travel by means of rail, road, marine shipping, and air travel. Since
+      2004, Poland has invested a lot in modernizing their transportation networks.</p>
+    <p><b>Traditional foods</b>: Polish cuisine shares similarities with Germany and Austria
+      especially, but also Jewish, Belarusian, Ukrainian, Russian, French and Italian culinary
+      traditions. It's rich in meat (pork, chicken, and beef) and winter vegetables (cabbage), and
+      spices. The Polish national dishes are bigos, pierogi, kielbasa, kotlet schabowy, breaded
+      cultlet, sour cucumber soup, and tripe soup among others. </p>
+    <p><b>Traditional drinks</b>: Traditional alcohol beverages include honey mead, beer, wine, and
+      vodka. Popular non-alcoholic drinks include tea, juices, soft drinks, buttermilk, soured milk,
+      and kefir.</p> 
+    <p><b>Population</b>: Rougly 38,544,513 inhabitants, which is the 8th largest population in
+      Europe. There's roughly 328 people per square mile.</p>
+    <p><b>Political leader(s)</b>: Poland is a representative democracy and Andrzej Duda is the
+      President and Beata Szydlo is the Prime Minister.</p>
+    <p><b>Religions</b>: There was a large Jewish population prior to World War II; however, now the
+      overwhelming majority of people are Roman Catholic. Freedom of religion is guaranteed.</p>
+    <p><b>Healthcare system</b>: Based on an all-inclusive insurance system. All medical service
+      providers and hospitals are subordinate to the Polish Ministry of Health. The Hospitals are
+      organized according to the regional administrative structure, so most towns have their own
+      hospital. Most hospitals are modern and have been recently updated.</p>
+    <p><b>Major industries and imports/exports</b>: Poland's industrail base suffered greatly
+      because of World War II. Today, their main concentrations are on fertilizers, petrochemicals,
+      machine tools, electrical machinery, electronics, car manufacturing, and shipbuilding. Their
+      main imports are capital goods needed for industrial retooling and for manufacturing inputs.
+      The most successful exports are furniture, foods, motor boats, light planes, hardwood
+      products, casual clothing, shoes, and cosmetics.</p>
   </body>
   
   <related-links>
