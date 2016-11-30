@@ -4,9 +4,10 @@
   <title>Poland background information</title>
   <shortdesc>Some important information about Poland that could impact travel arrangements.</shortdesc>
   <body>  
-    <p><fig id="fig_olr_jxj_1y">
+    <p>
+      <fig id="fig_twv_wsr_1y">
         <title>Map of Poland</title>
-        <image href="../Poland_map.jpg" scale="75" id="image_plr_jxj_1y"/>
+        <image href="Poland_map.jpg" scale="75" id="image_uwv_wsr_1y"/>
       </fig>
     </p>  
     <p><b>Capital</b>: Warsaw</p>
